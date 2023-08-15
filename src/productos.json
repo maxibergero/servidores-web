@@ -1,0 +1,4 @@
+[{"title":"Manteca","description":"Manteca Light","price":100,"thumbnail":"sin","code":"MM100","stock":956,"id":1},
+{"title":"Arroz","description":"Arroz fino","price":150,"thumbnail":"sin","code":"AA100","stock":800,"id":2},
+{"title":"Mayonesa","description":"Mayonesa Light","price":650,"thumbnail":"sin","code":"ML100","stock":132,"id":3},
+{"title":"Fideos","description":"Fideos sin TAC","price":260,"thumbnail":"sin","code":"FF100","stock":63,"id":4}]
